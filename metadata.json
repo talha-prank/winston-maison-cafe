@@ -1,0 +1,6 @@
+{
+  "name": "Winston Maison Chocolate Café",
+  "description": "Discover handcrafted chocolate, rich coffee and unforgettable sweet moments at Winston Maison Chocolate Café in Bangkok, Thailand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
